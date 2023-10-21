@@ -109,6 +109,6 @@ I would like to thank Microverse for including this in their curriculum.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/vikas924/oop-school-library/blob/86fe22512f873f88691198dc55c3e4ea04f31982/LICENSE) licensed.
+This project is [MIT](https://github.com/vikas924/Tdd-ruby/blob/b44ebc1c48e05b819ba0dfdc5020277376448cb3/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
